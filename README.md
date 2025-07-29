@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Android Development.
 - 🌱 I’m currently learning Kotlin and Python .
 - 💞️ I’m looking to collaborate on GitHub ,Linkden, twitter and Google Developers.
-- 📫 Reach Me Using My G-Mail :itxgametimes@gmail.com
+- 📫 Reach Me Using My G-Mail :pfurqan860@gmail.com
 - 😄 Pronouns: Shaheer
 - ⚡ Fun fact: I have Nothing To Do.
 <!---
